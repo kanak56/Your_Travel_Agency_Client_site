@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+ text-align: center;
+  background: url('https://earthbuddies.net/wp-content/uploads/2018/12/pexels-photo-1230302.jpeg');
+  background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .App-logo {

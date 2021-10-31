@@ -1,0 +1,11 @@
+.services h1{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.importants{
+    background-image: linear-gradient(to right, #42275a, #734b6d);
+    color: white;
+}
+.importants:hover{
+    transform: translate(10px, 10px);
+}

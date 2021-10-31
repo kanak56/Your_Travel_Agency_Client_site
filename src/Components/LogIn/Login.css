@@ -1,0 +1,9 @@
+.login{
+    background-color: rgba(211, 78, 78, 0.438);
+    max-width: 500px;
+    line-height: 40px;
+}
+.login-background{
+    display: flex;
+    justify-content: center;
+}

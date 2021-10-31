@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Rangamati Plan-1",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rangamati1.jpg",
+        "shortDescription": "5 Days Tour",
+        "price": "৳৬,৫০০",
+        "description": "Rangamati is the hilly district of Bangladesh"
+    },
+    {
+        "id": 2,
+        "name": "Rangamati Plan-2",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kapatailake.jpg/240px-Kapatailake.jpg",
+        "shortDescription": "3 Days Tour",
+        "price": "৳৩,৫০০",
+        "description": "Rangamati is the hilly district of Bangladesh"
+    },
+    {
+        "id": 3,
+        "name": "Bandarban Plan-1",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Boga_lake_01.jpg/248px-Boga_lake_01.jpg",
+        "shortDescription": "5 Days Tour",
+        "price": "৳৬,৫০০",
+        "description": "Bandarban is the hilly district of Bangladesh"
+    },
+    {
+        "id": 4,
+        "name": "Bandarban Plan-2",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Buddha_Dhatu_Zadi01.jpg/500px-Buddha_Dhatu_Zadi01.jpg",
+        "shortDescription": "3 Days Tour",
+        "price": "৳৩,৫০০",
+        "description": "Rangamati is the hilly district of Bangladesh"
+    },
+    {
+        "id": 5,
+        "name": "Cox's Bazar Plan-1",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cox%27s_Bazar_Sunset.JPG/298px-Cox%27s_Bazar_Sunset.JPG",
+        "shortDescription": "5 Days Tour",
+        "price": "৳৬,৫০০",
+        "description": "Cox's Bazar is the longest sea beach in the world and one of the most beautiful district in bangladesh"
+    },
+    {
+        "id": 6,
+        "name": "Cox's Bazar Plan-2",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Marine_drive%2C_Cox%27s_Bazar_02.jpg/298px-Marine_drive%2C_Cox%27s_Bazar_02.jpg",
+        "shortDescription": "4 Days Tour",
+        "price": "৳৫,০০০",
+        "description": "Cox's Bazar is the longest sea beach in the world and one of the most beautiful district in bangladesh"
+    },
+    {
+        "id": 7,
+        "name": "Khagrachari Plan-1",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sunrise_Seen_from_the_Helipad_at_Sajek_Valley.jpg/258px-Sunrise_Seen_from_the_Helipad_at_Sajek_Valley.jpg",
+        "shortDescription": "5 Days Tour",
+        "price": "৳৬,০০০",
+        "description": "Khagrachari is a hilly area. It is bounded by the tripura state of India on the north, Rangamati and chittagong districts on the south, Rangamati district on the east, Chittagong District and Tripura state of India on the west. Notable hill ranges are Golamoon, Chotto Panchari, Karmi Mura, Lutiban, Kuradia, Bhanga Mura, Jopisil."
+    },
+    {
+        "id": 8,
+        "name": "Sajek Plan-2",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Runmoy_Resort.jpg/240px-Runmoy_Resort.jpg",
+        "shortDescription": "7 Days Tour",
+        "price": "৳৭,০০০",
+        "description": "Sajek valley is known for its natural environment and is surrounded by mountains, dense forest, and grassland hill tracks. Many small rivers flow through the mountains among which the Kachalong and the Machalong are notable. On the way to Sajek valley, one has to cross the Mayni range and the Mayni river. The road to Sajek has high peaks and falls."
+    },
+    {
+        "id": 9,
+        "name": "Sylhet",
+        "img": "https://cdn.getyourguide.com/img/tour/5728ce3b7284b.jpeg/146.jpg",
+        "shortDescription": "4 Days Tour",
+        "price": "৳৪,৫০০",
+        "description": "Sajek valley is known for its natural environment and is surrounded by mountains, dense forest, and grassland hill tracks. Many small rivers flow through the mountains among which the Kachalong and the Machalong are notable. On the way to Sajek valley, one has to cross the Mayni range and the Mayni river. The road to Sajek has high peaks and falls."
+    }
+]
