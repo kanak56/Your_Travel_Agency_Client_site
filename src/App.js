@@ -46,10 +46,12 @@ function App() {
             <Route path='/userDetails'>
               <UserDetails></UserDetails>
             </Route>
-            <Route path='/manageOrder/:_id'>
+            <Route path='/manageOrder/:id'>
               <ManageOrder></ManageOrder>
             </Route>
-
+            <Route path='/addService'>
+              <AddService></AddService>
+            </Route>
             <Route path='*'>
               <NotFound></NotFound>
             </Route>
