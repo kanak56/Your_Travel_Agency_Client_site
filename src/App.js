@@ -14,26 +14,21 @@ import UserDetails from './Components/UserDetails/UserDetails';
 import AddService from './Components/AddService/AddService';
 import PrivateRoute from './Components/LogIn/PrivateRoute/PrivateRoute';
 import ServiceInfo from './Components/Services/Service/ServiceInfo/ServiceInfo';
+import ManageOrder from './Components/ManageOrder/ManageOrder';
 
 
 function App() {
   return (
     <div className="App">
       <AuthProvider>
-        <Loader
-          type="Puff"
-          color="#00BFFF"
-          height={100}
-          width={100}
-          timeout={2000} //3 secs
-        />
+
         <Router>
           <Headers></Headers>
           <Switch>
             <Route exact path='/'>
               <Home></Home>
             </Route>
-            <PrivateRoute path='/services/:id'>
+            <PrivateRoute path='/services/:_id'>
               <ServiceInfo></ServiceInfo>
             </PrivateRoute>
             <Route path="/about">
@@ -51,8 +46,8 @@ function App() {
             <Route path='/userDetails'>
               <UserDetails></UserDetails>
             </Route>
-            <Route path='/addService'>
-              <AddService></AddService>
+            <Route path='/manageOrder/:_id'>
+              <ManageOrder></ManageOrder>
             </Route>
 
             <Route path='*'>

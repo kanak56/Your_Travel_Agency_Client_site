@@ -20,7 +20,7 @@ const Headers = () => {
                         <HashLink className='link' to='/#contactUs'>Contact_Us</HashLink>
 
                         {
-                            user.providerData && <NavLink className='link' to='/addService'>Add_Service</NavLink>
+                            user.providerData && <NavLink className='link' to='/manageOrder/:_id'>Manage Order</NavLink>
                         }
                         <NavLink to='/userDetails' className='link'>{user.displayName}</NavLink>
                         {user.providerData ? <Button className=' link' onClick={logOut}>Log Out</Button> : <NavLink className=' link' to='/login'>Login</NavLink>}
